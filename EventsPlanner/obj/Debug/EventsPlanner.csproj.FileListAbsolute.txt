@@ -1,0 +1,9 @@
+c:\users\илья\documents\visual studio 2013\Projects\EventsPlanner\EventsPlanner\bin\Debug\EventsPlanner.exe.config
+c:\users\илья\documents\visual studio 2013\Projects\EventsPlanner\EventsPlanner\bin\Debug\EventsPlanner.exe
+c:\users\илья\documents\visual studio 2013\Projects\EventsPlanner\EventsPlanner\bin\Debug\EventsPlanner.pdb
+c:\users\илья\documents\visual studio 2013\Projects\EventsPlanner\EventsPlanner\obj\Debug\EventsPlanner.csprojResolveAssemblyReference.cache
+c:\users\илья\documents\visual studio 2013\Projects\EventsPlanner\EventsPlanner\obj\Debug\EventsPlanner.MainForm.resources
+c:\users\илья\documents\visual studio 2013\Projects\EventsPlanner\EventsPlanner\obj\Debug\EventsPlanner.Properties.Resources.resources
+c:\users\илья\documents\visual studio 2013\Projects\EventsPlanner\EventsPlanner\obj\Debug\EventsPlanner.csproj.GenerateResource.Cache
+c:\users\илья\documents\visual studio 2013\Projects\EventsPlanner\EventsPlanner\obj\Debug\EventsPlanner.exe
+c:\users\илья\documents\visual studio 2013\Projects\EventsPlanner\EventsPlanner\obj\Debug\EventsPlanner.pdb
